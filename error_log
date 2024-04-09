@@ -1,0 +1,25 @@
+[21-Mar-2018 17:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php:11
+Stack trace:
+#0 /home/p12p7dm7/annuaireagricultureci.net/index.php(4): require_once()
+#1 {main}
+  thrown in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php on line 11
+[21-Mar-2018 17:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php:11
+Stack trace:
+#0 /home/p12p7dm7/annuaireagricultureci.net/index.php(4): require_once()
+#1 {main}
+  thrown in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php on line 11
+[21-Mar-2018 17:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php:11
+Stack trace:
+#0 /home/p12p7dm7/annuaireagricultureci.net/index.php(4): require_once()
+#1 {main}
+  thrown in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php on line 11
+[21-Mar-2018 17:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php:11
+Stack trace:
+#0 /home/p12p7dm7/annuaireagricultureci.net/index.php(4): require_once()
+#1 {main}
+  thrown in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php on line 11
+[21-Mar-2018 17:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php:11
+Stack trace:
+#0 /home/p12p7dm7/annuaireagricultureci.net/index.php(4): require_once()
+#1 {main}
+  thrown in /home/p12p7dm7/annuaireagricultureci.net/Connections/annuaire.php on line 11

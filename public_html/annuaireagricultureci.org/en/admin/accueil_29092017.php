@@ -1,0 +1,1 @@
+<div style="padding:10px;"><h3>Bienvenue dans la zone d'administration des pages vertes</h3></div>

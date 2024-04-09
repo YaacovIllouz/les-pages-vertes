@@ -1,0 +1,8 @@
+<?php 
+function sans_accent($chaine) 
+{ 
+   $accent  ="ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûýýþÿ"; 
+   $noaccent="aaaaaaaceeeeiiiidnoooooouuuuybsaaaaaaaceeeeiiiidnoooooouuuyyby"; 
+   return strtr(trim($chaine),$accent,$noaccent); 
+} 
+?>

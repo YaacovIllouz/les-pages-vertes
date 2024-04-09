@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ref a {
+	color:#090;
+}
+.ref a:hover {
+	color:#090;
+}
+.ref a:visited{
+	color:#090;
+}

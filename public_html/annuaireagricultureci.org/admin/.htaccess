@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Accès sécurisé par un mot de passe"
+AuthUserFile "/home/p12p7dm7/.htpasswds/annuaireagricultureci.net/admin/passwd"
+require valid-user

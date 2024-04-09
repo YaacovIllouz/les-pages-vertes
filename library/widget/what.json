@@ -1,0 +1,11 @@
+{"Country":"CI","Limit":"250","Items":[
+  {"id":"ALIMENTATION ANIMALE","text":"ALIMENTATION ANIMALE","entity_id":"31", "data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"32","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"56","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"57","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"33","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"35","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"36","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"37","data_type":	"category", "score":1.188177},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"38","sigle":"MCI - SOGEM","entreprise":"xxx"},
+  {"id":"140","text":"ALIMENTATION ANIMALE","entity_id":"39","data_type":	"category", "score":1.188177}]}

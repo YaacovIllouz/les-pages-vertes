@@ -1,0 +1,292 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bloc-fixe { 
+		width: 600px;
+      	height: 400px;
+      	overflow: auto;
+      	border: 0px solid #000;
+		margin:auto;
+			}
+
+.bloc-fixe_desc { 
+		width: 685px;
+      	height: 800px;
+      	overflow: auto;
+      	border: 0px solid #000;
+		margin:auto;
+			}
+
+.bloc-liste { 
+      	height: 800px;
+      	overflow: auto;
+      	border: 0px solid #000;
+			}
+
+.div_princ{
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 30px 0px 30px 30px;
+    behavior: url(css/PIE.htc);
+	width:1000px;
+	height:1190px;
+	background-color:#FFF;
+	margin-top:2px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+.div_sec{
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 30px 30px 30px 30px;
+    behavior: url(css/PIE.htc);
+	width:695px;
+	height:1018px;
+	background-color: #D9EDF4;
+	vertical-align:middle;
+	margin-bottom:-620px;
+	margin-left:0px;
+	margin-right:auto;
+	
+	}
+	
+.div_trois{
+	width:300px;
+	height:1000px;
+	margin:auto;
+	}
+	
+.div_pub{
+	width:550px;
+	height:100px;
+	margin-top:10px;
+	margin:auto;
+	}
+	
+.div_menu{
+	width: 715px;
+	height:45px;
+	margin-top:-598px;
+	margin-left:0px;
+	}
+.bord_tab {
+ border:2px solid #CCC; 
+ }
+ 
+ .search{
+	border:none;
+	background-image:url(../images/search_icon.jpg);
+	background-repeat:no-repeat;
+	width:30px;
+	height:22px;
+	margin-top:0px;
+	margin-left:0px;
+	}
+	
+	.search_bar{
+	height:22px;
+	margin-top:-2px;
+	}
+	
+	.actualite{
+	width: 190px;
+	height:23px;
+	margin:auto;
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px 15px 15px 15px;
+    behavior: url(css/PIE.htc);  
+	background-color:#996600;
+	color:#FFF;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.ombre{
+	text-shadow:0 2px 1px #000;
+	}
+	
+.ar_cel{
+	background-image:url(../images/ar_cel.jpg);
+	background-repeat:no-repeat;
+	height:150px;
+	margin-left:auto;
+	margin-right:auto}	
+
+.lien_actu{
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#000;
+	
+	}
+
+.lien_actu:hover{
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color: #F60;
+	
+	}
+
+.div_actualite{
+	margin-top:13px
+	
+	}
+.div_publication{
+	margin-top:13px	
+	}
+
+.pub_annonce{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	color:#000;
+	font-weight:bold;
+	text-decoration:underline;
+	}
+	
+.div_logo{
+	margin-top:0px;
+	background-image:url(../images/logo_onad.jpg);
+	background-repeat:no-repeat;
+	width:103px;
+	height:116px;
+	margin:auto}
+
+.div_sondage{
+	width:200px;
+	text-align:justify;
+	margin:auto;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	
+	}
+
+.div_vote{
+	width:50px;
+	height:25px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	border:none;
+}
+	.gradient {
+	/* Anciens navigateurs */
+	background: url("../images/gradient-bg.png") repeat-x top;
+	-o-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	/* Navigateurs récents */
+	background: -webkit-gradient(
+		linear,
+		left top, left bottom,
+		from(#996600),
+		to(#FFB20C)
+	);
+	background: -webkit-linear-gradient(
+		top,
+		#996600,
+		#FFB20C
+	);
+	background: -moz-linear-gradient(
+		top,
+		#996600,
+		#FFB20C
+	);
+	background: -o-linear-gradient(
+		top,
+		#996600,
+		#FFB20C
+	);
+	background: linear-gradient(
+		top,
+		#996600,
+		#FFB20C
+	);
+}
+
+
+.div_resultats{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	color:#29679F;
+	
+	}	
+	
+.div_flash{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#000;
+	
+	}
+
+.div_footer{
+	margin:auto;
+	margin-top:5px;
+	width:1000px;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	color:#000;	
+	}
+
+.bi{
+	text-decoration:underline;
+	color:#000;
+	
+	}
+	
+p {
+   margin: 1.2em;
+}
+
+
+.fieldset {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #AAAAAA;
+    border-radius: 4px 4px 0 0;
+    box-shadow: 1px 1px 2px #FFFFFF inset;
+    margin-top: 1em;
+    padding: 1.5em;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+.ar_td{
+	background-image:url(../images/contact_1.jpg);
+	background-repeat:no-repeat;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	
+	}
+
+input {
+    background-color: #F9F9F9;
+    border-color: #CCCCCC;
+    border-style: solid;
+    border-width: 1px;
+    color: #808080;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    height: 21px;
+    padding: 2px;
+}
+
+.gras{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	}
+
+.titre_act{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	text-align:left;
+	background-color:#9CD1E2;
+	text-align:center;
+	height:40px;
+	color: #006}

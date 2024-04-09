@@ -1,0 +1,108 @@
+/* ---- Gebo Admin blue theme ---- */
+
+.confirm{
+	color:#20A055}
+
+.refuse{
+	color:#F7230D;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:600}
+
+.rouge{
+	color:#F30}
+
+.masquer{
+	display:none}
+	
+.ajout{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px}
+	
+.titre_page{
+	font-family:Verdana, Geneva, sans-serif;
+	color:#A54E19}
+
+.large_txt{
+	width:400px}	
+	
+.fieldset_1{
+	width:95%;
+	margin:auto;
+	border-radius:0px 10px 0px 0px;
+	/*-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;*/
+	behavior: url(css/PIE.htc);
+	border:1px solid  #EBEBEB}
+
+.valider{
+	height:30px;
+	width:80px;
+	background-color:#A54E1A;
+	margin-left:14px;
+	font-size:16px;
+	border:none;
+	color:#fff;
+	transition: all 0.2s linear 0s;
+	}
+	
+.valider:hover {
+	height:30px;
+	width:80px;
+	background-color:#CD9C7F;
+	border:none;
+	color:#000;
+	cursor:pointer;
+	transition: all 0.2s linear 0s;
+	}
+
+    .navbar-inner {
+		background-color:#7AB51D;
+    }
+    .navbar .nav > li > a {
+        color: #fff;
+    }
+    .navbar .nav > li:hover > a {
+        color:#fff;
+    }
+    .navbar .nav .active > a, .navbar .nav .active > a:hover {
+        background: #A54E19;
+    }
+    .navbar .divider-vertical {
+        background-color:#A54E19;
+        border-color:#FFF;
+    }
+    .dropdown-menu li > a:hover, .dropdown-menu .active > a,
+	.dropdown-menu .active > a:hover,
+    .nav-list > .active > a, .nav-list > .active > a:hover {
+        background: #8C9D1D !important;
+    }
+	
+	.no{
+		text-decoration:none}
+	
+	.table thead th {background-color:#ebf2f6 !important}
+	.dataTables_wrapper th.sorting_asc,.dataTables_wrapper th.sorting_desc {background-color:#d4e3eb !important}
+
+.style{
+	background-color:#FFF}
+	
+.timer{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight: normal;
+	color:#191919;
+	background-color:#CAE2A6;
+	border:none}
+
+.img_logo{
+background-image:url(../../_images/entete_.png);
+background-repeat:no-repeat;
+height:40px;
+margin-left:-25px;
+}
+
+.liste{
+	font-size:11px;
+	font-family: Verdana, Geneva, sans-serif;
+	color:#797979}

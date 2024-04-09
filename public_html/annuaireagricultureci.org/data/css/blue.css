@@ -1,0 +1,136 @@
+/* ---- Gebo Admin blue theme ---- */
+
+.confirm{
+	color:#20A055}
+
+.refuse{
+	color:#F7230D;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:600}
+
+.masquer{
+	display:none}
+	
+.ajout{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px}
+	
+.titre_page{
+	font-family:Verdana, Geneva, sans-serif;
+	color:#A54E19;
+	/*width:550px;*/
+	margin-right:10px}
+
+.large_txt{
+	width:400px}
+	
+.textarea_insertb{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid  #CCC;
+    color: #333333;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+	font-style: normal;
+    height: 90px;
+    padding: 5px;
+    width: 400px;
+	resize: none}		
+
+.champ_zonec{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CCC;
+    color: #333;
+    font-size: 13px;
+    height: 20px;
+    padding: 5px;
+	margin:auto;
+    width: 400px;
+	font-style: normal;
+	font-weight:normal;
+	text-transform: !important; 
+	}
+	
+.fieldset_1{
+	width:95%;
+	margin:auto;
+	border-radius:0px 10px 0px 0px;
+	/*-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;*/
+	behavior: url(css/PIE.htc);
+	border:1px solid  #EBEBEB}
+
+.valider{
+	height:30px;
+	width:80px;
+	background-color:#EE7F00;
+	margin-left:14px;
+	font-size:16px;
+	border:none;
+	color:#fff;
+	transition: all 0.2s linear 0s;
+	}
+	
+.valider:hover {
+	height:30px;
+	width:80px;
+	background-color:#EE7F00;
+	border:none;
+	color:#fff;
+	cursor:pointer;
+	transition: all 0.2s linear 0s;
+	}
+
+    .navbar-inner {
+		background-color:#08682A;
+    }
+    .navbar .nav > li > a {
+        color: #EE7F00;
+    }
+    .navbar .nav > li:hover > a {
+        color:#fff;
+    }
+    .navbar .nav .active > a, .navbar .nav .active > a:hover {
+        background: #A54E19;
+    }
+    .navbar .divider-vertical {
+        background-color:#A54E19;
+        border-color:#FFF;
+    }
+    .dropdown-menu li > a:hover, .dropdown-menu .active > a,
+	.dropdown-menu .active > a:hover,
+    .nav-list > .active > a, .nav-list > .active > a:hover {
+        background: #8C9D1D !important;
+    }
+	
+	.no{
+		text-decoration:none}
+	
+	.table thead th {background-color:#CAE2A6 !important}
+	.dataTables_wrapper th.sorting_asc,.dataTables_wrapper th.sorting_desc {background-color:#7AB51D !important}
+
+.style{
+	background-color:#FFF}
+	
+.timer{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight: normal;
+	color:#191919;
+	background-color:#CAE2A6;
+	border:none}
+
+.img_logo{
+background-image:url(../../_images/entete_.png);
+background-repeat:no-repeat;
+height:40px;
+margin-left:-25px;
+}
+
+.liste{
+	font-size:11px;
+	font-family: Verdana, Geneva, sans-serif;
+	color:#797979}
+
+.rouge{
+	color: #F00}
